@@ -32,4 +32,5 @@ Arquitetura de escala para Banking as a Service (BaaS)
 ### Fontes
 
 [Instâncias do Amazon EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/Instances.html)
+[Criando uma arquitetura de escala para Banking as a Service (BaaS)](https://aws.amazon.com/pt/blogs/aws-brasil/criando-uma-arquitetura-de-escala-para-banking-as-a-service-baas/)
 
