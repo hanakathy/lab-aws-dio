@@ -8,8 +8,8 @@ Este repositório tem como objetivo consolidar conhecimentos do bootcamp [Santan
 Este bootcamp é uma parceria entre a Santander e a DIO. Com foco no aprofundamento na computação em nuvem, ensina os principais serviços da AWS e práticas modernas, como DevOps e Kubernetes, além da construção de uma base sólida para atuar com automação, segurança e escalabilidade em ambientes cloud. São quase 40 horas de conteúdo atualizado, sendo um guia completo para a certificação AWS CLF-02.
 
 ## Habilidades Desenvolvidas
-🚧 Em construção 
-
+![aws](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![dynamodb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
